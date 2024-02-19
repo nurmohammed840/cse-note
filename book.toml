@@ -1,0 +1,10 @@
+[book]
+authors = ["Nur"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CSE Note"
+
+[output.html]
+mathjax-support = true
+git-repository-url = "https://example.com"
