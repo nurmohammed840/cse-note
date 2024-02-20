@@ -1,12 +1,16 @@
-# Wave
-
 ## Traveling wave
 
 A wave can be described as a disturbance in a medium that travels transferring momentum and energy without any net motion of the medium. A wave in which the positions of maximum and minimum amplitude travel through the medium is known as a traveling wave.
 
 <details>
   <summary>See more</summary>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/TfYCnOvNnFU?si=9oiamW-_4OUPur90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe
+    allowfullscreen
+    width="560" height="315" 
+    title="YouTube video player" frameborder="0" 
+    src="https://www.youtube.com/embed/TfYCnOvNnFU?si=9oiamW-_4OUPur90" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  ></iframe>
 </details>
 
 ## Progressive wave
