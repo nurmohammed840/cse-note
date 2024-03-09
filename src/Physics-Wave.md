@@ -44,4 +44,4 @@ When the frequency of the applied force is equal to the natural frequency of the
 
 2. Given that the general expression for displacement of a particle which executing simple harmonic oscillation is \\( y=10sin(6t+40^{\circ}) \\). Evaluate the amplitude, velocity and acceleration at \\( t=3~sec \\).
 
-3. Given that the general expression for displacement of a particle which executing simple harmonic oscillation is \\( y=15~Sin(10r+30^{\circ}) \\). Evaluate the amplitude, frequency, velocity and acceleration at \\( t=5~sec \\).
+3. Given that the general expression for displacement of a particle which executing simple harmonic oscillation is \\( y=15Sin(10r+30^{\circ}) \\). Evaluate the amplitude, frequency, velocity and acceleration at \\( t=5~sec \\).
