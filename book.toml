@@ -7,4 +7,5 @@ title = "CSE Note"
 
 [output.html]
 mathjax-support = true
-git-repository-url = "https://example.com"
+git-repository-url = "https://github.com/nurmohammed840/cse-note"
+edit-url-template = "https://github.com/nurmohammed840/cse-note/edit/main/{path}"

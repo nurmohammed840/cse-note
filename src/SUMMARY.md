@@ -4,5 +4,5 @@
     - [Wave](./Physics-Wave.md)
 
 
-- [Math](./Math.md)
-    - [Differentiability](./Math-Differentiability.md)
+<!-- - [Math](./Math.md)
+    - [Differentiability](./Math-Differentiability.md) -->
